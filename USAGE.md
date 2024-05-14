@@ -12,4 +12,4 @@
 - Execute the code.
 - Open counts.csv to view the results as a spreadsheet.
 - Inspect the images in output_images to evaluate performance.
-- The region of the image in which the larvae are counted can be made smaller by increasing the variable "inset"
+- The region of the image in which the larvae are counted can be made smaller by increasing the variable "inset."
