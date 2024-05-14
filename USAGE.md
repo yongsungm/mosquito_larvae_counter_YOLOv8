@@ -8,7 +8,7 @@
 - Replace the images in input_images with the images to be processed.
 - Empty the output_images folder.
 - Open count_larvae.ipynb as a jupyter notebook.
-- Remove the "#" in front of !pip install -r requirements.txt before the first execution.
+- Remove the ```#``` in front of ```!pip install -r requirements.txt``` before the first execution.
 - Execute the code.
 - Open counts.csv to view the results as a spreadsheet.
 - Inspect the images in output_images to evaluate performance.
