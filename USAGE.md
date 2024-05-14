@@ -5,7 +5,7 @@
 
 ## Usage
 
-- Replace the images in input_images with the images to be processed.
+- Replace the images in the input_images folder with the images to be processed.
 - Empty the output_images folder.
 - Open count_larvae.ipynb as a jupyter notebook.
 - Remove the ```#``` in front of ```!pip install -r requirements.txt``` before the first execution.
